@@ -8,7 +8,6 @@ const Say = () => {
     setMessage('신나는 출근~')
     setColor("Aqua")
   };
-  
   const onClickLeave = () => 
   {
     setMessage('가벼운 퇴근~')
